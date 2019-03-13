@@ -1,0 +1,44 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="63341" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Java/nodejs/node.exe">
+      <version-cache version="6.11.3" last-modified="1504603858000" />
+    </local-interpreter>
+  </component>
+  <component name="Quick Notes by Jitendra Rana">
+    <option name="enotes" value="" />
+    <option name="selectednoteindex" value="0" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://198.74.62.178/svn/wx" />
+        <option value="http://hddenv/svn/jpos/pms" />
+        <option value="http://hddenv/svn/hdpos46" />
+        <option value="http://hddenv/svn/prom" />
+        <option value="http://hddenv/svn/bpm" />
+        <option value="http://hddenv/svn/h5" />
+        <option value="http://svn4.app.hd123.cn/svn/m3" />
+        <option value="http://hddenv/svn/merchant" />
+        <option value="http://hddenv/svn/soms" />
+        <option value="http://hddenv/svn/devops" />
+        <option value="http://hddenv/svn/upbc" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://198.74.62.178/svn/wx" />
+        <option value="http://hddenv/svn/jpos/pms" />
+        <option value="http://hddenv/svn/hdpos46" />
+        <option value="http://hddenv/svn/prom" />
+        <option value="http://hddenv/svn/h5" />
+        <option value="http://hddenv/svn/bpm" />
+        <option value="http://svn4.app.hd123.cn/svn/m3" />
+        <option value="http://hddenv/svn/merchant" />
+        <option value="http://hddenv/svn/soms" />
+        <option value="http://hddenv/svn/devops" />
+        <option value="http://hddenv/svn/upbc" />
+      </list>
+    </option>
+  </component>
+</application>
