@@ -146,8 +146,20 @@
           <option name="url" value="http://github.app.hd123.cn:10080/pms/spms-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.app.hd123.cn:10080/service-center/cc-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.app.hd123.cn:10080/service-center/bbw-cc-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.app.hd123.cn:10080/service-center/bbw-ee-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\spms" />
+    <option name="cloneParentDir" value="D:\kidsplace" />
   </component>
 </application>
