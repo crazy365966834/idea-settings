@@ -6,6 +6,8 @@
       <mapping pattern="case*.request" type="JSON" />
       <mapping pattern="case*.response" type="JSON" />
       <mapping pattern="ConfigServiceImpl" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="request" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
