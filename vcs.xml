@@ -182,8 +182,16 @@
           <option name="url" value="http://github.app.hd123.cn:10080/stc/bbw.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/crazy365966834/miniprogram.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="crazy365966834" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\kidsplace" />
+    <option name="cloneParentDir" value="D:\s-early" />
   </component>
 </application>
