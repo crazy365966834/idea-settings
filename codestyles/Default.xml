@@ -1,7 +1,7 @@
 <code_scheme name="Default" version="173">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
-  <option name="RIGHT_MARGIN" value="128" />
+  <option name="RIGHT_MARGIN" value="160" />
   <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   <option name="JD_PARAM_DESCRIPTION_ON_NEW_LINE" value="true" />
   <JavaCodeStyleSettings>
