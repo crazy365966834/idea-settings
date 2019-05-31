@@ -9,6 +9,7 @@
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="request" type="PLAIN_TEXT" />
+      <mapping ext="lic" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
