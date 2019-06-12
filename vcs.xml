@@ -202,9 +202,13 @@
           <option name="url" value="http://github.app.hd123.cn:10080/pms/spms-rdb-upgrade.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.app.hd123.cn:10080/pms/spms-qianfan-dpos-transfer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\spms" />
+    <option name="cloneParentDir" value="D:\spms\release" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
