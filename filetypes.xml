@@ -11,6 +11,7 @@
       <mapping ext="log4" type="PLAIN_TEXT" />
       <mapping ext="request" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
+      <mapping ext="212" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
