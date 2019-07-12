@@ -210,6 +210,10 @@
           <option name="url" value="https://code.aliyun.com/searly_miniapp/miniapp-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/crazy365966834/idea-settings.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\spms\release" />
