@@ -238,6 +238,10 @@
           <option name="url" value="http://github.app.hd123.cn:10080/pms/spms-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.app.hd123.cn:10080/pms/commons.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\spms\develop" />
