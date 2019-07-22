@@ -73,6 +73,10 @@
     <option name="WHERE_EL_LINE" value="0" />
     <option name="WHERE_EL_WRAP" value="0" />
     <option name="ORDER_EL_WRAP" value="0" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="TABLE_ALTER_INSTRUCTION_WRAP" value="0" />
     <option name="ROUTINE_ARG_WRAP" value="0" />
   </MySQLCodeStyleSettings>
   <OracleCodeStyleSettings version="2">
