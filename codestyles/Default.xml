@@ -4,15 +4,112 @@
   <option name="RIGHT_MARGIN" value="160" />
   <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   <option name="JD_PARAM_DESCRIPTION_ON_NEW_LINE" value="true" />
+  <DB2CodeStyleSettings version="2">
+    <option name="INSERT_EL_WRAP" value="0" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="ORDER_EL_WRAP" value="0" />
+    <option name="ROUTINE_ARG_WRAP" value="0" />
+    <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="2">
+    <option name="INSERT_EL_WRAP" value="0" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="ORDER_EL_WRAP" value="0" />
+    <option name="ROUTINE_ARG_WRAP" value="0" />
+    <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="2">
+    <option name="INSERT_EL_WRAP" value="0" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="ORDER_EL_WRAP" value="0" />
+    <option name="ROUTINE_ARG_WRAP" value="0" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="2">
+    <option name="INSERT_EL_WRAP" value="0" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="ORDER_EL_WRAP" value="0" />
+    <option name="ROUTINE_ARG_WRAP" value="0" />
+  </HSQLCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
     <option name="JD_PARAM_DESCRIPTION_ON_NEW_LINE" value="true" />
   </JavaCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="2">
+    <option name="INSERT_EL_WRAP" value="0" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="ORDER_EL_WRAP" value="0" />
+    <option name="ROUTINE_ARG_WRAP" value="0" />
+    <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="INSERT_EL_WRAP" value="0" />
+    <option name="SET_EL_LINE" value="0" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="WHERE_EL_LINE" value="0" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="ORDER_EL_WRAP" value="0" />
+    <option name="ROUTINE_ARG_WRAP" value="0" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="2">
+    <option name="INSERT_EL_WRAP" value="0" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="ORDER_EL_WRAP" value="0" />
+    <option name="ROUTINE_ARG_WRAP" value="0" />
+    <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+  </OracleCodeStyleSettings>
+  <PostgresCodeStyleSettings version="2">
+    <option name="INSERT_EL_WRAP" value="0" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="ORDER_EL_WRAP" value="0" />
+    <option name="ROUTINE_ARG_WRAP" value="0" />
+    <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+  </PostgresCodeStyleSettings>
   <Properties>
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
+  <SQLiteCodeStyleSettings version="2">
+    <option name="INSERT_EL_WRAP" value="0" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="ORDER_EL_WRAP" value="0" />
+    <option name="ROUTINE_ARG_WRAP" value="0" />
+  </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="INSERT_EL_WRAP" value="0" />
     <option name="SET_EL_WRAP" value="0" />
@@ -24,6 +121,17 @@
     <option name="ROUTINE_ARG_WRAP" value="0" />
     <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
   </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="2">
+    <option name="INSERT_EL_WRAP" value="0" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="ORDER_EL_WRAP" value="0" />
+    <option name="ROUTINE_ARG_WRAP" value="0" />
+    <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
+  </SybaseCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
