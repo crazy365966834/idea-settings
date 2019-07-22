@@ -64,6 +64,7 @@
     <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
   </MSSQLCodeStyleSettings>
   <MySQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
     <option name="INSERT_EL_WRAP" value="0" />
     <option name="SET_EL_LINE" value="0" />
     <option name="SET_EL_WRAP" value="0" />
