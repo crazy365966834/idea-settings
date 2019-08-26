@@ -295,4 +295,39 @@
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
     </gwt-sdk-list>
   </component>
+  <component name="libraryTable">
+    <library name="Python 2.7 (python) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Java/python/Lib" />
+        <root url="file://C:/Java/python/Scripts" />
+        <root url="file://$USER_HOME$/.windows-build-tools/python27/Lib" />
+        <root url="file://$USER_HOME$/.windows-build-tools/python27/DLLs" />
+        <root url="file://$USER_HOME$/.windows-build-tools/python27/Lib/lib-tk" />
+        <root url="file://C:/Java/python" />
+        <root url="file://C:/Java/python/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-1311619899" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Java/python/Lib" />
+        <root url="file://C:/Java/python/Scripts" />
+        <root url="file://$USER_HOME$/.windows-build-tools/python27/Lib" />
+        <root url="file://$USER_HOME$/.windows-build-tools/python27/DLLs" />
+        <root url="file://$USER_HOME$/.windows-build-tools/python27/Lib/lib-tk" />
+        <root url="file://C:/Java/python" />
+        <root url="file://C:/Java/python/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-1311619899" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
 </application>
