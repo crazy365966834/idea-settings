@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="java.lang.Thread.Thread(target,name)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
