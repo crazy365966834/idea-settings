@@ -290,6 +290,10 @@
           <option name="url" value="http://github.app.hd123.cn:10080/service-center/lhjx-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.app.hd123.cn:10080/mas/lh-cms-parser.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\lhjx" />
