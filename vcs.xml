@@ -302,6 +302,10 @@
           <option name="url" value="http://headingxm123.asuscomm.com:8932/train/demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://searly.asuscomm.com:8932" />
+          <option name="userName" value="chenrizhang" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\xxx" />
