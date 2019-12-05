@@ -27,11 +27,13 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="sqlserver.ms">
-      <artifact name="SQL Server" use="true" version="7.2.1" />
+      <artifact name="SQL Server" use="true" version="7.4.1" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
       <option name="auto-commit" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="sqlserver.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
