@@ -37,6 +37,9 @@
             <Goal>
               <option name="commandLine" value="install -DskipTests" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="deploy -DskipTests" />
+            </Goal>
           </list>
         </option>
       </Goals>
