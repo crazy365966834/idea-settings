@@ -18,6 +18,10 @@
           <option name="url" value="http://searly.asuscomm.com:8932/util/resident-parent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://searly.asuscomm.com:8932/alpha/commons-mini.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\s-early\develop" />
